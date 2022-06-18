@@ -1,0 +1,28 @@
+.calc{
+    margin-top: 30px;
+}
+.card{
+    width: 19em;
+    margin-left: 80vh;
+    box-shadow: 0 2px 3px black;
+}
+.input{
+    width: 16em;
+}
+.butn{
+    width: 63px;
+    margin-left: 1px;
+    margin-top: 6px;
+    margin-bottom: 2px;
+    background-color: #ffffff;
+    color: black;
+    border-color: #5a5a5a;
+}
+.butn-clear{
+    width: 255px;
+    margin-left: 1px;
+    margin-top: 4px;
+    margin-bottom: 2px;
+    background-color: rgb(245, 109, 46);
+    border-color: #5a5a5a;
+}
