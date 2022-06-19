@@ -3,7 +3,7 @@
 }
 .card{
     width: 19em;
-    margin-left: 80vh;
+    margin: auto;
     box-shadow: 0 2px 3px black;
 }
 .input{
